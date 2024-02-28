@@ -1,8 +1,0 @@
-version: 1
-type: go
-resolver:
-  repo: test-go
-  serverId: mill1
-deployer:
-  repo: test-go
-  serverId: mill1
